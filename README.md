@@ -42,4 +42,4 @@ Gitlab-сервер для реализации CI/CD-процессов и пр
 Добавьте ещё один файл в папку /data на хостовой машине.
 Подключитесь во второй контейнер и отобразите листинг и содержание файлов в /data контейнера.
 
-![Задание3](https://github.com/SSitkarev/SSitkarev-9-01/blob/main/img/cpu_utilization.jpg)
+![Задание3](https://github.com/SSitkarev/virt03_docker/blob/main/img/3.png)
